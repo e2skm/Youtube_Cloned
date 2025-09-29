@@ -44,7 +44,7 @@ This is a **static front-end clone** only. It includes:
 
 ## 📱 Viewing the Project
 
-Simply open `index.html` in your web browser to view the static clone.
+[Live Demo](https://e2skm.github.io/Youtube_Cloned/)
 
 ## 👨‍💻 Author
 
@@ -53,3 +53,4 @@ Itumeleng Sekoma
 ## 📄 License
 
 This project is for educational purposes only.
+
